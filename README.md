@@ -1,4 +1,4 @@
-# FreeCodeCamp - Survey Form
+# Mardown Editor App
 A Markdown editor app built with React.js
 
 ## Getting Started
